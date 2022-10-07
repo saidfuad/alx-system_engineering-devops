@@ -1,1 +1,1 @@
-shell permissions
+su admin
