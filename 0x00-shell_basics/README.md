@@ -1,1 +1,1 @@
-This is a readme file for a full stack developer
+This is a shell readme
